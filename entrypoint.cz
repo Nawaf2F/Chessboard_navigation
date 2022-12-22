@@ -1,0 +1,4 @@
+//Enter a <FILE-NAME>.java to be executed using the command
+//"java ClassName", where ClassName is the name of the class
+//contained in a selected <FILE-NAME>.java file.
+ChessboardProjectTest.java
